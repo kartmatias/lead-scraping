@@ -1,0 +1,44 @@
+# Node modules
+**/node_modules/
+
+# TypeScript build outputs
+**/dist/
+**/build/
+**/*.tsbuildinfo
+
+# Environment files
+*.env
+*.env.*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PHP / Laravel
+/api/vendor/
+/api/node_modules/
+/api/.env
+/api/.env.*
+/api/storage/
+/api/bootstrap/cache/
+/api/.phpunit.result.cache
+/api/.vagrant/
+/api/.php-cs-fixer.cache
+/api/.idea/
+
+# Laravel IDE helper
+/api/_ide_helper.php
+/api/_ide_helper_models.php
+
+# Laravel Mix
+/api/public/hot
+/api/public/storage
+/api/storage/*.key
+
+# Logs and temporary files
+**/*.log
+**/tmp/
+**/temp/
+**/*.cache
