@@ -49,18 +49,20 @@ class Lead extends Model
             'company' => $data['company'] ?? $data['businessName'] ?? null,
             'position' => $data['position'] ?? $data['title'] ?? null,
             'address' => $data['address'] ?? $data['location'] ?? null,
-            'cnpj' => $data['cnpj'] ?? null,
+            'cnpj' => isset($data['cnpj']) ? (string) $data['cnpj'] : null,
             'website' => $data['website'] ?? null,
             'instagram' => $data['instagram'] ?? null,
             'linkedin' => $data['linkedin'] ?? $data['linkedinUrl'] ?? null,
             'facebook' => $data['facebook'] ?? null,
-            'raw_data' => $data,
+            'raw_data' => json_encode($data),
         ];
+
+        $updateColumns = ['name', 'email', 'phone', 'company', 'position', 'address', 'cnpj', 'website', 'instagram', 'linkedin', 'facebook', 'raw_data', 'updated_at'];
 
         self::upsert(
             [$leadData],
             uniqueBy: ['source_type', 'source_id'],
-            update: array_keys(array_diff_key($leadData, ['source_type' => '', 'source_id' => '', 'scrape_request_id' => '']))
+            update: $updateColumns
         );
 
         return self::where('source_type', $sourceType)

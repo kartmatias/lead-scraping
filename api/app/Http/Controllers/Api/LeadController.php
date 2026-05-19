@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\Lead;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 use Illuminate\Support\Facades\DB;
 
 class LeadController extends Controller
@@ -63,7 +64,7 @@ class LeadController extends Controller
         return response()->json(['message' => 'Lead deleted']);
     }
 
-    public function export(Request $request): JsonResponse
+    public function export(Request $request): Response|JsonResponse
     {
         $request->validate([
             'format' => 'nullable|in:json,csv',
