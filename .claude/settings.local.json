@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan *)",
+      "Bash(New-Item -ItemType File -Path database/database.sqlite -Force)"
+    ]
+  }
+}
