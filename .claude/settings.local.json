@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(php artisan *)",
-      "Bash(New-Item -ItemType File -Path database/database.sqlite -Force)"
+      "Bash(New-Item -ItemType File -Path database/database.sqlite -Force)",
+      "WebFetch(domain:api.apify.com)"
     ]
   }
 }
