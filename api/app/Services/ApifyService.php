@@ -158,4 +158,30 @@ class ApifyService
             ];
         }
     }
+
+    public function getActorDetails(string $actorId): array
+    {
+        try {
+            $response = $this->client->get("/acts/{$actorId}");
+            $data = json_decode($response->getBody()->getContents(), true);
+
+            return [
+                'success' => true,
+                'actor_id' => $data['data']['id'] ?? $actorId,
+                'name' => $data['data']['name'] ?? null,
+                'description' => $data['data']['description'] ?? null,
+                'version' => $data['data']['version'] ?? null,
+            ];
+        } catch (RequestException $e) {
+            Log::error('Apify getActorDetails failed', [
+                'actor_id' => $actorId,
+                'error' => $e->getMessage(),
+            ]);
+
+            return [
+                'success' => false,
+                'error' => $e->getMessage(),
+            ];
+        }
+    }
 }
