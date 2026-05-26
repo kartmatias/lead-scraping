@@ -64,4 +64,21 @@ class ApifyServiceTest extends TestCase
         $this->assertIsArray($result);
         $this->assertArrayHasKey('success', $result);
     }
+
+    public function test_get_actor_details_returns_array_structure(): void
+    {
+        $result = $this->service->getActorDetails('compass/crawler-google-places');
+
+        $this->assertIsArray($result);
+        $this->assertArrayHasKey('success', $result);
+    }
+
+    public function test_get_actor_details_handles_missing_actor(): void
+    {
+        $result = $this->service->getActorDetails('non-existent/actor-id');
+
+        $this->assertIsArray($result);
+        $this->assertArrayHasKey('success', $result);
+        $this->assertFalse($result['success']);
+    }
 }

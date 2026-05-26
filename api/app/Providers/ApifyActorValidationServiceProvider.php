@@ -16,8 +16,14 @@ class ApifyActorValidationServiceProvider extends ServiceProvider
     public function boot(ApifyService $apifyService): void
     {
         // Allow disabling validation via environment variable for local dev
-        if ($this->app->environment('local') && env('APIFY_VALIDATION_DISABLED', false)) {
+        if (($this->app->environment('local') || $this->app->environment('testing')) && env('APIFY_VALIDATION_DISABLED', false)) {
             Log::info('Apify actor validation skipped (APIFY_VALIDATION_DISABLED=true)');
+            return;
+        }
+
+        // Skip validation in testing environment by default
+        if ($this->app->environment('testing')) {
+            Log::info('Apify actor validation skipped in testing environment');
             return;
         }
 
