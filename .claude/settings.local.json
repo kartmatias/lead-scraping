@@ -3,7 +3,16 @@
     "allow": [
       "Bash(php artisan *)",
       "Bash(New-Item -ItemType File -Path database/database.sqlite -Force)",
-      "WebFetch(domain:api.apify.com)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(php *)",
+      "Bash(git commit -m 'feat: add getActorDetails method to ApifyService *)",
+      "Bash(git commit -m 'feat: add ApifyActorRegistry configuration *)",
+      "Bash(git commit *)",
+      "Bash(./vendor/bin/phpunit tests/Unit/ApifyServiceTest.php)",
+      "Bash(./vendor/bin/phpunit tests/Unit/ApifyServiceTest.php --filter \"test_get_actor_details\")",
+      "Bash(APP_ENV=testing php artisan test)",
+      "Bash(APP_ENV=testing php artisan *)"
     ]
   }
 }
