@@ -11,25 +11,33 @@ class ApifyService
     private Client $client;
     private string $token;
 
-    private const BASE_URL = 'https://api.apify.com/v2';
+    private const BASE_URL = 'https://api.apify.com/v2/';
 
     public function __construct()
     {
         $this->token = config('services.apify.token', env('APIFY_TOKEN'));
 
-        $this->client = new Client([
+        $clientOptions = [
             'base_uri' => self::BASE_URL,
             'headers' => [
                 'Authorization' => "Bearer {$this->token}",
                 'Content-Type' => 'application/json',
             ],
-        ]);
+        ];
+
+        // Disable SSL verification when configured (Windows development)
+        $sslVerify = config('services.apify.ssl_verify', true);
+        if ($sslVerify === false || $sslVerify === 'false') {
+            $clientOptions['verify'] = false;
+        }
+
+        $this->client = new Client($clientOptions);
     }
 
     public function startActorRun(string $actorId, array $input): array
     {
         try {
-            $response = $this->client->post("/acts/{$actorId}/runs", [
+            $response = $this->client->post("acts/{$actorId}/runs", [
                 'json' => [
                     'input' => $input,
                 ],
