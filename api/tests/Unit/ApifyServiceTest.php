@@ -11,11 +11,13 @@ class ApifyServiceTest extends TestCase
     use RefreshDatabase;
 
     private ApifyService $service;
+    private ApifyActorRegistry $registry;
 
     protected function setUp(): void
     {
         parent::setUp();
         $this->service = new ApifyService();
+        $this->registry = new ApifyActorRegistry();
     }
 
     public function test_service_can_be_instantiated(): void
@@ -25,7 +27,9 @@ class ApifyServiceTest extends TestCase
 
     public function test_start_actor_run_returns_array_structure(): void
     {
-        $result = $this->service->startActorRun('compass/crawler-google-places', [
+        $actors = $this->registry->getActors();
+        $actor = $actors[0];
+        $result = $this->service->startActorRun($actor->getId(), [
             'searchStringsArray' => ['Test'],
         ]);
 

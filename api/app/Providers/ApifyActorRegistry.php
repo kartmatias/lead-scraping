@@ -13,22 +13,22 @@ class ApifyActorRegistry
     {
         return [
             [
-                'id' => 'compass/crawler-google-places',
+                'id' => 'compass~crawler-google-places',
                 'name' => 'Google Maps',
                 'source' => 'google_maps',
             ],
             [
-                'id' => 'apify/instagram-scraper',
+                'id' => 'apify~instagram-scraper',
                 'name' => 'Instagram',
                 'source' => 'instagram',
             ],
             [
-                'id' => 'dev_fusion/linkedin-profile-scraper',
+                'id' => 'dev_fusion~linkedin-profile-scraper',
                 'name' => 'LinkedIn',
                 'source' => 'linkedin',
             ],
             [
-                'id' => 'parseforge/brazil-cnpj-scraper',
+                'id' => 'parseforge~brazil-cnpj-scraper',
                 'name' => 'CNPJ',
                 'source' => 'cnpj',
             ],

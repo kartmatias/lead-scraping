@@ -11,7 +11,7 @@ class ApifyService
     private Client $client;
     private string $token;
 
-    private const BASE_URL = 'https://api.apify.com/v2';
+    private const BASE_URL = 'https://api.apify.com';
 
     public function __construct()
     {
@@ -29,7 +29,7 @@ class ApifyService
     public function startActorRun(string $actorId, array $input): array
     {
         try {
-            $response = $this->client->post("/acts/{$actorId}/runs", [
+            $response = $this->client->post("/v2/acts/{$actorId}/runs", [
                 'json' => [
                     'input' => $input,
                 ],
@@ -59,7 +59,7 @@ class ApifyService
     public function getRunStatus(string $runId): array
     {
         try {
-            $response = $this->client->get("/runs/{$runId}");
+            $response = $this->client->get("/v2/runs/{$runId}");
             $data = json_decode($response->getBody()->getContents(), true);
 
             return [
@@ -84,7 +84,7 @@ class ApifyService
     public function getDatasetItems(string $datasetId, int $limit = 100, int $offset = 0): array
     {
         try {
-            $response = $this->client->get("/datasets/{$datasetId}/items", [
+            $response = $this->client->get("/v2/datasets/{$datasetId}/items", [
                 'query' => [
                     'limit' => $limit,
                     'offset' => $offset,
@@ -139,7 +139,7 @@ class ApifyService
     public function cancelRun(string $runId): array
     {
         try {
-            $response = $this->client->post("/runs/{$runId}/abort");
+            $response = $this->client->post("/v2/runs/{$runId}/abort");
             $data = json_decode($response->getBody()->getContents(), true);
 
             return [
@@ -162,7 +162,7 @@ class ApifyService
     public function getActorDetails(string $actorId): array
     {
         try {
-            $response = $this->client->get("/acts/{$actorId}");
+            $response = $this->client->get("/v2/acts/{$actorId}");
             $data = json_decode($response->getBody()->getContents(), true);
 
             return [
