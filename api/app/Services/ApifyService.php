@@ -17,13 +17,21 @@ class ApifyService
     {
         $this->token = config('services.apify.token', env('APIFY_TOKEN'));
 
-        $this->client = new Client([
+        $clientOptions = [
             'base_uri' => self::BASE_URL,
             'headers' => [
                 'Authorization' => "Bearer {$this->token}",
                 'Content-Type' => 'application/json',
             ],
-        ]);
+        ];
+
+        // Disable SSL verification when configured (Windows development)
+        $sslVerify = config('services.apify.ssl_verify', true);
+        if ($sslVerify === false || $sslVerify === 'false') {
+            $clientOptions['verify'] = false;
+        }
+
+        $this->client = new Client($clientOptions);
     }
 
     public function startActorRun(string $actorId, array $input): array

@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'apify' => [
+        'token' => env('APIFY_TOKEN'),
+        'ssl_verify' => env('APIFY_SSL_VERIFY', true),
+    ],
+
 ];
