@@ -1,4 +1,4 @@
-**Estratégia para um cliente consumidor Apify em PHP** (hospedagens compartilhadas inclusive):
+# Estratégia para um cliente consumidor Apify em PHP
 
 A **Apify não tem um SDK oficial em PHP**, mas tem uma excelente documentação e tutorial oficial exatamente para isso. A abordagem padrão (e mais robusta) é usar **Guzzle** (o cliente HTTP mais popular no PHP).
 
