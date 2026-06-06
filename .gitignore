@@ -17,25 +17,25 @@
 Thumbs.db
 
 # PHP / Laravel
-/api/vendor/
-/api/node_modules/
-/api/.env
-/api/.env.*
-/api/storage/
-/api/bootstrap/cache/
-/api/.phpunit.result.cache
-/api/.vagrant/
-/api/.php-cs-fixer.cache
-/api/.idea/
+/vendor/
+/node_modules/
+/.env
+/.env.*
+/storage/
+/bootstrap/cache/
+/.phpunit.result.cache
+/.vagrant/
+/.php-cs-fixer.cache
+/.idea/
 
 # Laravel IDE helper
-/api/_ide_helper.php
-/api/_ide_helper_models.php
+/_ide_helper.php
+/_ide_helper_models.php
 
 # Laravel Mix
-/api/public/hot
-/api/public/storage
-/api/storage/*.key
+/public/hot
+/public/storage
+/storage/*.key
 
 # Logs and temporary files
 **/*.log
