@@ -30,9 +30,7 @@ POST /api/scrape-requests
 | `app/Providers/ApifyActorValidationServiceProvider.php` | Boot-time actor validation (skip with `APIFY_VALIDATION_DISABLED=true`) |
 | `routes/api.php` | REST endpoints for scrape-requests and leads |
 
-**scrape_requests**: `id`, `source` (enum), `status` (pending/running/completed/failed/cancelled), `filters` (JSON), `apify_run_id`, `apify_dataset_id`, `total_leads`, `started_at`, `completed_at`, `error_message`
-
-**scrape_requests**: `id`, `source` (enum), `status` (pending/running/completed/failed/cancelled), `filters` (JSON), `apify_run_id`, `apify_dataset_id`, `total_leads`, `started_at`, `completed_at`, `error_message`
+**scrape_requests**: `id`, `source` (enum), `status` (pending/running/completed/failed/cancelled), `filters` (JSON), `apify_run_id`, `apify_dataset_id`, `total_leads`, `completed_leads`, `failed_leads`, `started_at`, `completed_at`, `error_message`
 
 **leads**: `id`, `scrape_request_id`, `source_type`, `source_id`, `name`, `email`, `phone`, `company`, `position`, `address`, `cnpj`, `website`, `instagram`, `linkedin`, `facebook`, `raw_data` (JSON)
 UNIQUE: `(source_type, source_id)`
