@@ -1,0 +1,3561 @@
+{
+    "d": {
+        "status": 1,
+        "curriculum": {
+            "__type": "CVEM.Entity.Entity.Principales.Curriculum",
+            "ChangeStatus": 0,
+            "Id": 106761,
+            "IdEmpleado": 247767,
+            "IdUsuarioUltimaModificacion": 247767,
+            "FechaUltimaModificacion": "\/Date(1770749088353)\/",
+            "UsuarioUltimaModificacion": "Carlos (Antonio) Matias (Da) Silva",
+            "AdminDefaultLanguage": null,
+            "EmployeeDefaultLanguage": "EN",
+            "TrainingAdminDefaultLanguage": null,
+            "ManagerDefaultLanguage": null,
+            "SessionStartDate": "\/Date(1780426830000)\/",
+            "CurrentDefaultLanguage": "EN",
+            "UltimaFechaProyectoConfirmada": "02/10/2023 - 29/05/2026",
+            "DatosEmpleado": {
+                "ChangeStatus": 0,
+                "NumeroEmpleado": 247767,
+                "Nombre": "Carlos (Antonio)",
+                "Apellido1": "Matias (Da)",
+                "Apellido2": "Silva",
+                "OficinaDestino": "São Paulo",
+                "OficinaOrigen": "São Paulo",
+                "FechaContratacion": "\/Date(1688364000000)\/",
+                "TipoEmpleado": "Lead Engineer",
+                "Carrera": "Engineering",
+                "CategoriaDenominacion": "Lead",
+                "Categoria": "Lead Engineer",
+                "UO1": "Technology",
+                "UO2": "Digital Architecture",
+                "LineaGestion": "Cloud Native \u0026 Modernization",
+                "AreaGestion": null,
+                "AnosExperienciaEnEveris": 2.90000000,
+                "UserLogin": "cmatiass",
+                "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                "Cargo": "Lead Engineer",
+                "IdPais": "BR",
+                "firstmail": true,
+                "HasChanges": false
+            },
+            "StateCurriculumIdioms": [
+                {
+                    "ChangeStatus": 0,
+                    "IdCurriculum": 106761,
+                    "IdIdiom": "EN",
+                    "Confirmado": false,
+                    "IdQualityLevel": 3,
+                    "IsAudited": false,
+                    "IdSocialQualityLevel": 5,
+                    "Idiom": null,
+                    "QualityLevel": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "QualityLevelDics": [
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "CA",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "EN",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "ES",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "GL",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "IT",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "PT",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "SocialQualityLevel": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdCurriculum": 106761,
+                    "IdIdiom": "PT",
+                    "Confirmado": false,
+                    "IdQualityLevel": 3,
+                    "IsAudited": false,
+                    "IdSocialQualityLevel": 5,
+                    "Idiom": null,
+                    "QualityLevel": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "QualityLevelDics": [
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "CA",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "EN",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "ES",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "GL",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "IT",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "IdQualityLevel": 3,
+                                "IdIdiom": "PT",
+                                "Nombre": "HIGH",
+                                "HasChanges": false
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "SocialQualityLevel": null,
+                    "HasChanges": false
+                }
+            ],
+            "PersonalInformation": {
+                "ChangeStatus": 0,
+                "Id": 116681,
+                "Id_Curriculum": 106761,
+                "EstadoCivil": 0,
+                "FechaInicioIT": "\/Date(1688266800000)\/",
+                "AnosExperiencia": 2.0,
+                "PersonalInformationIdioms": [
+                    {
+                        "ChangeStatus": 0,
+                        "IdPersonalInformation": 116681,
+                        "IdIdiom": "EN",
+                        "Ocupacion": null,
+                        "ResumenPersonal": "Senior Software Developer with solid experience in software architecture and a strong background in designing and implementing scalable solutions using multiple programming languages, including Java, Kotlin, Go, C#, .NET, Node.js, PHP, and Python. Skilled in microservices architecture, API development, and cloud computing, with a particular focus on AWS services. Proven ability to lead projects, deliver robust solutions, and collaborate across cross-functional teams in high-performance and mission-critical environments.",
+                        "PermisoConducir": "YES",
+                        "MiembroAsociado": "",
+                        "HasChanges": false
+                    },
+                    {
+                        "ChangeStatus": 0,
+                        "IdPersonalInformation": 116681,
+                        "IdIdiom": "PT",
+                        "Ocupacion": null,
+                        "ResumenPersonal": "Desenvolvedor de Software Sênior com ampla experiência em arquitetura de sistemas e forte atuação no desenvolvimento de soluções escaláveis, utilizando diversas linguagens de programação, incluindo Java, Kotlin, Go, C#, .NET, Node.js, PHP e Python. Especialista em arquitetura de microsserviços, desenvolvimento de APIs e computação em nuvem, com foco em serviços AWS. Comprovada capacidade de liderar projetos, entregar soluções robustas e colaborar com equipes multidisciplinares em ambientes de alta performance e missão crítica.",
+                        "PermisoConducir": "YES",
+                        "MiembroAsociado": "",
+                        "HasChanges": false
+                    }
+                ],
+                "HasChanges": false
+            },
+            "EverisExperiences": [
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 193269,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1708741,
+                    "IdProyecto": 419888,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00475",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1696215600000)\/",
+                    "FechaFin": "\/Date(1780023600000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": true,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 28,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 193269,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Lead Engineer ",
+                            "NombreProyecto": "DA - Apollo REDE",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Currently working on the REDE/Itaú project as a DevOps Engineer, focusing on automation, reliability, and cloud-native best practices. Responsible for the design and maintenance of Infrastructure as Code, using Helm Charts to standardize application and service deployments.",
+                            "Responsabilidades": "Managing continuous deployments on Kubernetes (AWS EKS) by adopting GitOps practices with ArgoCD, ensuring consistency, traceability, and secure releases. Overseeing and evolving CI/CD pipelines on GitHub, integrating build, test, and automated deployment processes to improve delivery efficiency and operational quality.",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo ",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 193269,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "Consultoria, outsourcing e tecnologias de informação",
+                            "Ocupacion": "Lead Engineer ",
+                            "NombreProyecto": "DA - Apollo REDE",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Atuação no Projeto REDE/Itaú, exercendo o papel de DevOps Engineer, com foco em automação, confiabilidade e padronização de ambientes cloud-native. Responsável pela criação e manutenção de infraestrutura como código, utilizando Helm Charts para padronização de aplicações e serviços.",
+                            "Responsabilidades": "Execução de deployments contínuos em Kubernetes (AWS EKS), adotando práticas de GitOps com ArgoCD, garantindo rastreabilidade, consistência e segurança nas entregas. Gestão e evolução de pipelines de CI/CD no GitHub, integrando processos de build, testes e deploy automatizados, promovendo eficiência operacional e qualidade contínua.",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo ",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 193269,
+                            "IdTaxonomy": 22765,
+                            "Description": "Kubernetes",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 193269,
+                            "IdTaxonomy": 23663,
+                            "Description": "GitHub",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 193269,
+                            "IdTaxonomy": 27891,
+                            "Description": "Amazon Elastic Kubernetes Service (Amazon EKS)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 193269,
+                            "IdTaxonomy": 28711,
+                            "Description": "Amazon Web Services (AWS DevOps)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 193269,
+                            "IdTaxonomy": 29444,
+                            "Description": "GitOps",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 186223,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1696724,
+                    "IdProyecto": 388249,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00423",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1703991600000)\/",
+                    "FechaFin": "\/Date(1769742000000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 21,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 186223,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Lead Engineer",
+                            "NombreProyecto": "DA - MAP AWS - REDE - H: Roberta",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "The project aimed to modernize REDE’s card operations, gradually replacing the mainframe environment with a modern, scalable, and microservices-oriented architecture. During the transition period, a coexistence solution was implemented to ensure that critical payment processes remained stable and fully operational until the legacy system was completely decommissioned.\n\nA key milestone of the project was the development of an integrated payment hub, built on an \"as a service\" architecture, enabling greater flexibility, scalability, and security for integration with multiple partners, acquirers, and financial systems.\n",
+                            "Responsabilidades": "- Modernize the card platform: migrate from mainframe to a cloud-native architecture, focusing on resilience, performance, and cost optimization.\n- Ensure operational continuity: maintain coexistence between legacy and new systems until full mainframe decommissioning.\n- Develop a unified payment hub: consolidate financial integrations into a centralized, modular, and scalable platform.\n- Enhance scalability and performance: leverage Go, GraphQL, Kafka, Solace, Kubernetes (EKS) and AWS services (DynamoDB, S3, OpenSearch) to support high transaction volumes.\n- Strengthen observability and reliability: implement real-time monitoring, event tracing, and performance metrics.\n- Adopt an *as a service- architecture: provide payment capabilities as reusable services, accelerating future integrations and product evolution.\n",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 186223,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "Consultoria, outsourcing e tecnologias de informação",
+                            "Ocupacion": "Lead Engineer",
+                            "NombreProyecto": "DA - MAP AWS - REDE - H: Roberta",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Modernização operação de cartões REDE, arquitetura, implementação e suporte a coexistência durante todo o período até o encerramento de atividades no maiframe; criação de hub de pagamentos integrado, usando arquitetura \"as a service\"",
+                            "Responsabilidades": "- Responsável pela arquitetura, implementação e suporte de soluções para modernização da operação de cartões, garantindo a coexistência com sistemas legados em mainframe \n- Desenvolvimento de um hub de pagamentos integrado, baseado em arquitetura *as a service*, promovendo escalabilidade, disponibilidade e integração segura com múltiplos parceiros e serviços financeiros.\n- Construção de microsserviços em Go e APIs GraphQL, integrados a ambientes cloud-native (AWS).\n- Utilização de AWS DynamoDB e S3 para armazenamento distribuído e seguro de dados críticos.\n- Orquestração de aplicações em Kubernetes (EKS), aplicando práticas de resiliência, observabilidade e automação.\n- Implementação de processamento assíncrono e mensageria com Kafka e Solace, garantindo alto throughput e confiabilidade em transações.\n- Integração com OpenSearch na AWS para indexação, monitoramento e análise em tempo real de eventos e logs.\n- Atuação em todas as etapas: arquitetura, desenvolvimento, testes, implantação, monitoramento e suporte.",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 23026,
+                            "Description": "Apache Kafka",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 29036,
+                            "Description": "golang",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 29353,
+                            "Description": "Amazon Web Services (AWS S3)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 29577,
+                            "Description": "Amazon DynamoDB",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 31810,
+                            "Description": "Amazon Glue (AWS Glue)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 34941,
+                            "Description": "OpenSearch",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 34958,
+                            "Description": "Solace",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 186223,
+                            "IdTaxonomy": 35216,
+                            "Description": "Python Multiprocessing",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 182895,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1689166,
+                    "IdProyecto": 419888,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00475",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1738292400000)\/",
+                    "FechaFin": "\/Date(1759114800000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": true,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 5,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 182895,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "Mobilize REDE - DA",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 182895,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "Consultoria, outsourcing e tecnologias de informação",
+                            "Ocupacion": "Lead Engineer",
+                            "NombreProyecto": "Mobilize REDE - DA",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Hub de operaçao de cartões REDE - mantendo serviços de agregação de dados e manutenção e implementação da coexistência Mainframe",
+                            "Responsabilidades": "Atividades e Responsabilidades Técnicas\n\nArquitetura de Software\nResponsável pelo desenho, validação e evolução de arquiteturas escaláveis, resilientes e orientadas a microsserviços. Atuação na definição de padrões técnicos, escolha de tecnologias, estratégias de versionamento, integração contínua e segurança. Condução de revisões de arquitetura com foco em desempenho, observabilidade, manutenibilidade e alinhamento com as boas práticas de cloud-native design.\n\nDesenvolvimento de Software em Go\nAtuação no desenvolvimento de aplicações backend utilizando Go, com foco em alta performance, concorrência segura e baixo consumo de recursos. Implementação de APIs RESTful, serviços GraphQL, processamento assíncrono e integração com filas e sistemas de mensageria. Utilização de testes automatizados (unitários e de integração), controle de versão via Git e pipelines CI/CD.\n\nDesenvolvimento de Software em Python\nDesenvolvimento de scripts, serviços backend e automações utilizando Python, especialmente em contextos de ETL, APIs, monitoramento e integração de sistemas. Com atenção à legibilidade, testes e boas práticas de desenvolvimento. Forte uso de bibliotecas para manipulação de dados, integração com APIs e suporte à observabilidade.\n\nKubernetes (EKS)\nGerenciamento e operação de workloads em clusters Kubernetes na AWS (EKS). Escrita de manifests YAML para implantação de serviços, configurações de autoscaling, tolerâncias, probes de saúde e utilização de Helm Charts. Aplicação de boas práticas de segurança, gerenciamento de secrets, RBAC e monitoramento de recursos no ambiente containerizado.\n\nOpenSearch\nAdministração e integração de clusters OpenSearch para indexação e consulta de grandes volumes de dados. Criação de dashboards, configuração de pipelines de ingestão, tuning de queries e análise de performance. Implementação de mecanismos de retenção, replicação e segurança para ambientes distribuídos e críticos.\n\nGrafana\nCriação e manutenção de dashboards no Grafana para visualização de métricas, logs e alertas. Integração com diversas fontes de dados como Prometheus, OpenSearch e Datadog. Desenvolvimento de painéis voltados à observabilidade de serviços, análise de desempenho e acompanhamento de SLAs técnicos.\n\nDatadog\nImplementação de monitoramento de aplicações e infraestrutura com Datadog. Configuração de APM (Application Performance Monitoring), rastreamento distribuído, análise de logs, métricas customizadas e alertas. Apoio à investigação de problemas em produção e à melhoria contínua de confiabilidade e desempenho dos sistemas.\n\nSolace\nDesenvolvimento e suporte à comunicação assíncrona de sistemas via Solace PubSub+. Implementação de tópicos, filas e roteamentos para integração desacoplada entre microsserviços. Utilização de padrões de mensageria, como publish/subscribe e request/reply, além de garantir a entrega confiável de mensagens em ambientes distribuídos e com alto volume de transações.\n\n",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 182895,
+                            "IdTaxonomy": 25119,
+                            "Description": "grafana",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 182895,
+                            "IdTaxonomy": 27891,
+                            "Description": "Amazon Elastic Kubernetes Service (Amazon EKS)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 182895,
+                            "IdTaxonomy": 29201,
+                            "Description": "Go",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 182895,
+                            "IdTaxonomy": 34941,
+                            "Description": "OpenSearch",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 182895,
+                            "IdTaxonomy": 34958,
+                            "Description": "Solace",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 182895,
+                            "IdTaxonomy": 35216,
+                            "Description": "Python Multiprocessing",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 176052,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1670931,
+                    "IdProyecto": 455405,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00592",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1730862000000)\/",
+                    "FechaFin": "\/Date(1738292400000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 2,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 176052,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Lead Engineer",
+                            "NombreProyecto": "MAP AWS - Home do Superapp DA",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Migration project of mainframe data consumption API query to modernized database with DynamoDB, to reduce costs and improve performance, adding modernization and democratization of data.\nMigrated the mainframe data consumption API query to a modernized database using DynamoDB, aiming to reduce costs, enhance performance, and modernize and democratize data access. The new version eliminates redundancy, improves flow, and maintains the key objectives of the project",
+                            "Responsabilidades": "1. Requirement Analysis and Planning\n Collaborate with stakeholders to understand data analysis requirements.\n Define project scope, objectives, and deliverables.\n\n2. Data Preparation and Storage\n Design and configure S3 buckets for data storage (raw, processed, and curated).\n Implement data ingestion pipelines to load data into S3.\n Ensure proper data partitioning and organization for efficient querying.\n\n3. AWS Glue Job Development\n Develop and optimize AWS Glue ETL jobs using Python (PySpark).\n Transform and clean raw data into structured formats for analysis.\n Implement error handling and logging in Glue jobs.\n\n4. Data Analysis\n Perform data analysis using Python libraries (e.g., Pandas, NumPy) or AWS services (e.g., Athena).\n Generate insights and reports based on processed data.\n\n5. Infrastructure as Code (IaC) with Terraform\n Design and implement AWS infrastructure using Terraform (e.g., S3 buckets, Glue jobs, IAM roles, Lambda functions).\n Ensure infrastructure is scalable, secure, and cost-effective.\n Manage Terraform state files and version control for infrastructure code.\n\n6. Automation and Orchestration\n Automate Glue job execution using AWS Step Functions or EventBridge.\n Schedule and monitor ETL pipelines for reliability and performance.\n\n7. Security and Compliance\n Implement IAM roles, policies, and encryption (e.g., KMS) to secure data and resources.\n Ensure compliance with data governance and regulatory requirements.\n\n8. Testing and Validation\n Test Glue jobs and data pipelines for accuracy and performance.\n Validate data outputs against expected results.\n\n9 . Documentation and Knowledge Sharing\n Document architecture, workflows, and code for future reference.\n Train team members and stakeholders on the implemented solution.\n ",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "Sao Paulo",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 176052,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "MAP AWS - Home do Superapp DA",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 176052,
+                            "IdTaxonomy": 29353,
+                            "Description": "Amazon Web Services (AWS S3)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 176052,
+                            "IdTaxonomy": 29577,
+                            "Description": "Amazon DynamoDB",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 176052,
+                            "IdTaxonomy": 31810,
+                            "Description": "Amazon Glue (AWS Glue)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 176052,
+                            "IdTaxonomy": 32844,
+                            "Description": "Python 3",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 171692,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1664773,
+                    "IdProyecto": 388249,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00423",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1725159600000)\/",
+                    "FechaFin": "\/Date(1732849200000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 0,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 171692,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "MAP AWS - DA",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 171692,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "Consultoria, outsourcing e tecnologias de informação",
+                            "Ocupacion": "Engineer",
+                            "NombreProyecto": "MAP AWS - DA",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Modernização da arquitetura do projeto SLC onde antes era um projeto único (SLC), foi feita a divisão ? em liquidande (GZ7) e domicilio (KR9).?\nCriação de um novo cluster de processamento para as transações de pagamento crédito, débito e antecipações.?",
+                            "Responsabilidades": "Elaborar e manter documentação de requisitos, incluindo casos de uso, histórias de usuários e diagramas de processos.\nValidar requisitos com as partes interessadas para garantir que todos os aspectos críticos sejam considerados e compreendidos.\nGarantir que os requisitos atendam às necessidades do negócio e sejam factíveis tecnicamente.\nFacilitar a comunicação eficaz entre a equipe de desenvolvimento e as partes interessadas.\nDefinir a arquitetura de software, incluindo a seleção de tecnologias, padrões de design e frameworks apropriados.\nElaborar diagramas de arquitetura (ex.: diagramas de componentes, diagramas de sequência) para representar a estrutura do sistema.\nDividir o sistema em componentes modulares, garantindo a separação de responsabilidades e facilitando a manutenção futura.\nEscrever código eficiente, seguro e de alta qualidade utilizando Java e seus frameworks (ex.: Spring, Hibernate).\nImplementar microserviços e APIs RESTful, garantindo a interoperabilidade com outras partes do sistema.\nDesenvolver testes unitários e de integração para garantir a qualidade e confiabilidade do código.",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 22957,
+                            "Description": "Terraform",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 23041,
+                            "Description": "Docker",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 24821,
+                            "Description": "Spring",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 27891,
+                            "Description": "Amazon Elastic Kubernetes Service (Amazon EKS)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 33170,
+                            "Description": "Amazon CloudWatch",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 34345,
+                            "Description": "Spring Boot 3.0.6",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171692,
+                            "IdTaxonomy": 34584,
+                            "Description": "Java 21",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 164005,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1642222,
+                    "IdProyecto": 320206,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00308",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1688266800000)\/",
+                    "FechaFin": "\/Date(1725073200000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 8,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 164005,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Tech lead ",
+                            "NombreProyecto": "Modernização e Coachs - Consultoria",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Project Description\n\nProvided technical support to the legal area and related departments, with a strong focus on defining and implementing services, as well as developing software applications tailored to business needs. The project was carried out in an Agile environment, with attention to documentation and software engineering best practices.\n\nMain Objectives\n\n- Provide specialized technical support to the legal area and related departments.\n- Define and implement services aligned with business requirements.\n- Develop software applications to optimize processes and support decision-making.\n- Apply Agile methodologies throughout the development cycle, enabling continuous and iterative deliveries.\n- Ensure proper documentation to maintain traceability, governance, and solution quality.",
+                            "Responsabilidades": "Activities and Responsibilities\n\n- Design and implementation of AWS architectures, ensuring scalability, security, and high availability.\n- Development and maintenance of AWS Lambdas*- for process automation and system integration.\n- Administration and use of AWS RDS*- for reliable and high-performance relational data management.\n- Software development*- aligned with business requirements, following engineering best practices and continuous integration.\n- Application of Agile methodologies*- (Scrum/Kanban) throughout the project lifecycle.\n- Preparation and maintenance of technical and functional documentation, ensuring traceability and governance of delivered solutions.\n",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo ",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 164005,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "",
+                            "NombreCliente": "",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 22870,
+                            "Description": "MySQL",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 22957,
+                            "Description": "Terraform",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 23043,
+                            "Description": ".NET Core",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 24133,
+                            "Description": "Programming language C#",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 25821,
+                            "Description": "AWS Cloud",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 27028,
+                            "Description": "Amazon Web Services (AWS Lambda)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 164005,
+                            "IdTaxonomy": 31909,
+                            "Description": "API Gateway Cloud",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 161122,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1633552,
+                    "IdProyecto": 406903,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00448",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1688266800000)\/",
+                    "FechaFin": "\/Date(1711767600000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 7,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 161122,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Lead Engineer ",
+                            "NombreProyecto": "MAP AWS - Giro",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Formalização completa - Módulo assinantes: prover meios pelos quais seja possível realizar a Formalização completa por meio de confirmação de assinantes.\nInserido entre os sistemas de capital de giro e FQ7.",
+                            "Responsabilidades": "Creating Infrastructure as code,  architecture implementation, code reviews, planning  and support, Java applications migration to modernization ",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 161122,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "",
+                            "NombreCliente": "",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 161122,
+                            "IdTaxonomy": 22957,
+                            "Description": "Terraform",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 161122,
+                            "IdTaxonomy": 28712,
+                            "Description": "Amazon Web Services (AWS Certified Solutions Architect)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 161122,
+                            "IdTaxonomy": 33435,
+                            "Description": "Java Lang",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 171693,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1633133,
+                    "IdProyecto": 324444,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-010781-00132",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1688353200000)\/",
+                    "FechaFin": "\/Date(1704337200000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 6,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 171693,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "JSOX - Dig. Faturas",
+                            "NombreCliente": "LATAM AIRLINES BRASIL",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 171693,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "Consultoria, outsourcing e tecnologias de informação",
+                            "Ocupacion": "Engineer",
+                            "NombreProyecto": "JSOX - Dig. Faturas",
+                            "NombreCliente": "LATAM AIRLINES BRASIL",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Demandas de Arquitetura Cloud AWS - manutenção de modernização de infraestrutura de projetos AWS - atividades e responsabilidades são essenciais para garantir que a infraestrutura na AWS esteja sempre disponível, segura, eficiente e com custos controlados.",
+                            "Responsabilidades": "Provisionamento de Infraestrutura;\nGerenciamento de Serviços de Computação e Armazenamento;\nMonitoramento e Logs;\nCustos e Otimização de Recursos;\nAutomação e CI/CD;",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171693,
+                            "IdTaxonomy": 22957,
+                            "Description": "Terraform",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171693,
+                            "IdTaxonomy": 29107,
+                            "Description": "Amazon Web Services (AWS CloudFormation)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 171693,
+                            "IdTaxonomy": 33172,
+                            "Description": "AWS Well Architected Framework",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 161123,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1629075,
+                    "IdProyecto": 334914,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00328",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1688266800000)\/",
+                    "FechaFin": "\/Date(1703905200000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 5,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 161123,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Lead Engineer ",
+                            "NombreProyecto": "Demandas Arquitetura Cloud AWS - GDN-e",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Tech Migration INFRASTRUCTURE iupipes 2.0.\nObjective: To migrate existing projects to new approach introduced by IUPIPES 2.0\n",
+                            "Responsabilidades": "Terraform,  infrastructure as code, Amazon Cloud Computing Architecture,  Planning,  testing,  and support. ",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 161123,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "",
+                            "NombreCliente": "",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 161123,
+                            "IdTaxonomy": 22957,
+                            "Description": "Terraform",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 161123,
+                            "IdTaxonomy": 25821,
+                            "Description": "AWS Cloud",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 161123,
+                            "IdTaxonomy": 29894,
+                            "Description": "Agile",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "FromStaffing": false,
+                    "Id": 156207,
+                    "IdCurriculum": 106761,
+                    "IdAsignacion": 1614007,
+                    "IdProyecto": 320206,
+                    "IdAreaParrilla": "Q",
+                    "IdGrupoProfesional": "0",
+                    "CodigoProyecto": "EXT-011198-00308",
+                    "NombreCompania": "NTT DATA Spain and Affiliates",
+                    "FechaInicio": "\/Date(1688353200000)\/",
+                    "FechaFin": "\/Date(1696042800000)\/",
+                    "PorcentajeAsignacion": 100,
+                    "CheckTecnologiaNoUsada": false,
+                    "CodeStatus": "A",
+                    "OnGoingProject": false,
+                    "Published": true,
+                    "Reason": "",
+                    "ExportPpt": false,
+                    "EffectiveMonths": 2,
+                    "EverisExperienceIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 156207,
+                            "IdIdiom": "EN",
+                            "SectorEmpresarial": "Consulting, IT \u0026 Outsourcing Professional Services",
+                            "Ocupacion": "Lead Engineer ",
+                            "NombreProyecto": "Modernização e Coachs - Consultoria",
+                            "NombreCliente": "Banco Itau S.A.",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "Main activities: Infrastructure as code platform migration,  modernization with terraform, microservices development, planning and architecture development. \nObjectives: To support the client to create and maintain your platform robust,  secure,  reliable and modern. ",
+                            "Responsabilidades": "Design, develop, and maintain microservices using Go\nImplement software quality practices throughout the development lifecycle\nWrite and execute unit tests, integration tests, and system tests\nOptimize the performance of microservices to meet user and business requirements\nWork with other engineers to build and deploy scalable and reliable microservices architectures\nImplement infrastructure as code.",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "São Paulo ",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdEverisExperience": 156207,
+                            "IdIdiom": "PT",
+                            "SectorEmpresarial": "",
+                            "Ocupacion": "",
+                            "NombreProyecto": "",
+                            "NombreCliente": "",
+                            "ContactoCliente": "",
+                            "DescripcionProyecto": "",
+                            "Responsabilidades": "",
+                            "DescripcionTecnologica": "",
+                            "Ciudad": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Methodologies": [],
+                    "Technologies": [
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 22957,
+                            "Description": "Terraform",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 25821,
+                            "Description": "AWS Cloud",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 27891,
+                            "Description": "Amazon Elastic Kubernetes Service (Amazon EKS)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 29201,
+                            "Description": "Go",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 29353,
+                            "Description": "Amazon Web Services (AWS S3)",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 29577,
+                            "Description": "Amazon DynamoDB",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 31909,
+                            "Description": "API Gateway Cloud",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "Id": 20002,
+                            "IdOwner": 156207,
+                            "IdTaxonomy": 34354,
+                            "Description": "AWS Code Pipeline",
+                            "HasChanges": false
+                        }
+                    ],
+                    "Business": [],
+                    "HasChanges": false
+                }
+            ],
+            "OtherExperiences": [],
+            "Trainings": [],
+            "FormalTrainings": [
+                {
+                    "ChangeStatus": 0,
+                    "Id": 195899,
+                    "IdCurriculum": 106761,
+                    "IdDocument": null,
+                    "IdFormalTrainingLevel": 4,
+                    "Document": null,
+                    "FormalTrainingLevel": {
+                        "ChangeStatus": 0,
+                        "Id": 4,
+                        "Descripcion": "University Degree (\u003e= 4 years)",
+                        "FormalTrainingLevelDics": [
+                            {
+                                "ChangeStatus": 0,
+                                "Id": 4,
+                                "Descripcion": "Carrera universitària de 4-5 anys (Llicenciatura, Enginyeria Tècnica, Grau Bolonya, etc.) ",
+                                "Idioma": "CA",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "Id": 4,
+                                "Descripcion": "University Degree (\u003e= 4 years)",
+                                "Idioma": "EN",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "Id": 4,
+                                "Descripcion": "Carrera universitaria de 4-5 años (Ingeniería Superior, Licenciatura, Grado Bolonia)",
+                                "Idioma": "ES",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "Id": 4,
+                                "Descripcion": "Carreira universitaria de 4-5 anos (Licenciatura, Enxeñería Superior, Grao Bolonia)",
+                                "Idioma": "GL",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "Id": 4,
+                                "Descripcion": "Laurea Universitaria (4-5 anni)",
+                                "Idioma": "IT",
+                                "HasChanges": false
+                            },
+                            {
+                                "ChangeStatus": 0,
+                                "Id": 4,
+                                "Descripcion": "Licenciatura ou Titulação Superior (4-5 anos)",
+                                "Idioma": "PT",
+                                "HasChanges": false
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "FormalTrainingIdioms": [
+                        {
+                            "ChangeStatus": 0,
+                            "IdFormalTraining": 195899,
+                            "IdIdiom": "EN",
+                            "Description": "",
+                            "Calificacion": "Computer Science ",
+                            "Centro": "Lourenco Filho College ",
+                            "HasChanges": false
+                        },
+                        {
+                            "ChangeStatus": 0,
+                            "IdFormalTraining": 195899,
+                            "IdIdiom": "PT",
+                            "Description": "",
+                            "Calificacion": "",
+                            "Centro": "",
+                            "HasChanges": false
+                        }
+                    ],
+                    "FechaInicio": "\/Date(1199156400000)\/",
+                    "FechaFin": "\/Date(1325300400000)\/",
+                    "Compulsado": false,
+                    "HasChanges": false
+                }
+            ],
+            "LevelLanguages": [
+                {
+                    "ChangeStatus": 0,
+                    "Id": 0,
+                    "Language": "Portuguese",
+                    "IdLanguage": "EN",
+                    "IdCurriculum": 0,
+                    "IdMatrix": 10,
+                    "IdTaxonomy": 20023,
+                    "IdKnowledgeLevelListening": 10,
+                    "IdKnowledgeLevelReading": 10,
+                    "IdKnowledgeLevelOralInteraction": 10,
+                    "IdKnowledgeLevelSpokenProduction": 10,
+                    "IdKnowledgeLevelWriting": 10,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 0,
+                    "Language": "English",
+                    "IdLanguage": "EN",
+                    "IdCurriculum": 0,
+                    "IdMatrix": 8,
+                    "IdTaxonomy": 20016,
+                    "IdKnowledgeLevelListening": 8,
+                    "IdKnowledgeLevelReading": 8,
+                    "IdKnowledgeLevelOralInteraction": 8,
+                    "IdKnowledgeLevelSpokenProduction": 8,
+                    "IdKnowledgeLevelWriting": 8,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 0,
+                    "Language": "Spanish",
+                    "IdLanguage": "EN",
+                    "IdCurriculum": 0,
+                    "IdMatrix": 6,
+                    "IdTaxonomy": 20017,
+                    "IdKnowledgeLevelListening": 6,
+                    "IdKnowledgeLevelReading": 6,
+                    "IdKnowledgeLevelOralInteraction": 6,
+                    "IdKnowledgeLevelSpokenProduction": 6,
+                    "IdKnowledgeLevelWriting": 6,
+                    "HasChanges": false
+                }
+            ],
+            "LanguageTrainings": [],
+            "PersonalSkill": {
+                "ChangeStatus": 0,
+                "Id": 116677,
+                "IdCurriculum": 106761,
+                "PersonalSkillIdioms": [
+                    {
+                        "ChangeStatus": 0,
+                        "Id": 116677,
+                        "IdIdiom": "EN",
+                        "AptitudesSociales": "Team leadership: I have experience leading teams in different projects, demonstrating the ability to manage and coordinate development teams to achieve the proposed objectives.\n\nProject management: Working on complex projects, I can plan, organize, and monitor, ensuring efficient delivery and collaboration between the parties involved.\n\nEffective communication: Working with stakeholders, including clients and technical teams, demonstrates a strong ability to communicate clearly and efficiently, facilitating collaboration in high-performance environments.\n\nAbility to work under pressure: Participation in high-performance projects and critical sectors, such as retail and payments, suggests the ability to deal with tight deadlines and pressure while maintaining the quality of the work.\n\nProblem-solving: With experience in requirements analysis and systems integration, I demonstrate the ability to identify and solve problems effectively, whether in technical issues or in relation to the alignment between technology and business.\n\nAdaptability: Experience with different technologies, sectors, and types of projects reveals an ability to adapt quickly.",
+                        "AptitudesOrganizativas": "Project Management: Coordinating and efficiently executing projects, from planning to delivery.\nPrioritization: Ability to manage multiple demands and define priorities.\nDocumentation: Maintaining clear and accessible documentation to ensure continuity and communication.\nVersion Control: Using tools such as Git to organize and track code changes.\nArchitectural Planning: Structuring scalable and modular systems.\nTeam Coordination: Organizing multidisciplinary teams for technical and functional alignment.\nInfrastructure Management: Administration of virtualized and containerized environments (on-premise and in the cloud).",
+                        "AptitudesTecnologicas": null,
+                        "AptitudesInformaticas": null,
+                        "SkillExportPpt": " ",
+                        "HasChanges": false
+                    },
+                    {
+                        "ChangeStatus": 0,
+                        "Id": 116677,
+                        "IdIdiom": "PT",
+                        "AptitudesSociales": "Liderança de equipes: Tive experiência liderando equipes em diferentes projetos, demonstrando habilidade em gerir e coordenar times de desenvolvimento para atingir os objetivos propostos.\n\nGestão de projetos: Atuando em projetos complexos, possuo capacidade de planejamento, organização e acompanhamento, garantindo a entrega eficiente e a colaboração entre as partes envolvidas.\n\nComunicação eficaz: A habilidade de trabalhar com diversos stakeholders, incluindo clientes e equipes técnicas, demonstra forte capacidade de comunicação clara e eficiente, facilitando a colaboração em ambientes de alta performance.\n\nCapacidade de trabalhar sob pressão: A participação em projetos de alta performance e em setores críticos, como varejo e pagamentos, sugere habilidade para lidar com prazos apertados e pressão, mantendo a qualidade do trabalho.\n\nResolução de problemas: Com experiência em análise de requisitos e integração de sistemas,  demonstro a capacidade de identificar e resolver problemas de maneira eficaz, seja em questões técnicas ou em relação ao alinhamento entre tecnologia e negócios.\n\nAdaptabilidade: A experiência com diferentes tecnologias, setores e tipos de projeto revela uma habilidade de se adaptar rapidamente.",
+                        "AptitudesOrganizativas": "Gestão de Projetos: Coordenação e execução eficiente de projetos, do planejamento à entrega.\nPriorização: Capacidade de gerenciar múltiplas demandas e definir prioridades.\nDocumentação: Manutenção de documentação clara e acessível para garantir continuidade e comunicação.\nControle de Versionamento: Uso de ferramentas como Git para organizar e rastrear mudanças no código.\nPlanejamento de Arquitetura: Estruturação de sistemas escaláveis e modulares.\nCoordenação de Equipes: Organização de equipes multidisciplinares para alinhamento técnico e funcional.\nGerenciamento de Infraestrutura: Administração de ambientes virtualizados e conteinerizados (on-premise e em nuvem).",
+                        "AptitudesTecnologicas": null,
+                        "AptitudesInformaticas": null,
+                        "SkillExportPpt": " ",
+                        "HasChanges": false
+                    }
+                ],
+                "HasChanges": false
+            },
+            "QualityAssurance": {
+                "__type": "CVEM.Entity.Entity.Principales.QualityAssurance",
+                "ChangeStatus": 0,
+                "Id": 102465,
+                "IdCurriculum": 106761,
+                "IdQualityLevel": 1,
+                "Comentarios": "",
+                "IdUsuarioNuevoRegistro": 247767,
+                "FechaNuevoRegistro": "\/Date(1690852835197)\/",
+                "IdUsuarioUltimaActualizacionRegistro": 247767,
+                "FechaUltimaActualizacionRegistro": "\/Date(1690852835197)\/",
+                "NombreUsuarioUltimaModificacion": "Carlos (Antonio) Matias (Da) Silva",
+                "QualityLevel": {
+                    "ChangeStatus": 0,
+                    "Id": 0,
+                    "QualityLevelDics": null,
+                    "HasChanges": false
+                },
+                "HasChanges": false
+            },
+            "HistoryActions": [
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 658305,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1770748141000)\/",
+                    "Fecha": "\/Date(1770749089103)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 625694,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1757944513000)\/",
+                    "Fecha": "\/Date(1757944635573)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 625691,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1757943928000)\/",
+                    "Fecha": "\/Date(1757944503380)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 625682,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1757942517000)\/",
+                    "Fecha": "\/Date(1757943918430)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 625671,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1757940802000)\/",
+                    "Fecha": "\/Date(1757942508330)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 611140,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1751662410000)\/",
+                    "Fecha": "\/Date(1751662477787)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 611139,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1751662273000)\/",
+                    "Fecha": "\/Date(1751662404000)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 611138,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1751660654000)\/",
+                    "Fecha": "\/Date(1751662263090)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 611135,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1751659780000)\/",
+                    "Fecha": "\/Date(1751660644017)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 611134,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1751659723000)\/",
+                    "Fecha": "\/Date(1751659772103)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 575399,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1735841609000)\/",
+                    "Fecha": "\/Date(1735843963240)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554409,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726241242000)\/",
+                    "Fecha": "\/Date(1726241699107)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554407,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726240582000)\/",
+                    "Fecha": "\/Date(1726241232633)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554402,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726240544000)\/",
+                    "Fecha": "\/Date(1726240575613)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554401,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726240515000)\/",
+                    "Fecha": "\/Date(1726240533837)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554400,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726240242000)\/",
+                    "Fecha": "\/Date(1726240465430)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554399,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726239925000)\/",
+                    "Fecha": "\/Date(1726240232017)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 554314,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1726170204000)\/",
+                    "Fecha": "\/Date(1726170641993)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 517831,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1710289835000)\/",
+                    "Fecha": "\/Date(1710290884030)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 508041,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1706546176000)\/",
+                    "Fecha": "\/Date(1706547907030)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 486831,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1698150105000)\/",
+                    "Fecha": "\/Date(1698153079100)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 476457,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1693506888000)\/",
+                    "Fecha": "\/Date(1693507414690)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 476456,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1693506020000)\/",
+                    "Fecha": "\/Date(1693506874413)\/",
+                    "HasChanges": false
+                },
+                {
+                    "__type": "CVEM.Entity.Entity.Principales.HistoryAction",
+                    "ChangeStatus": 0,
+                    "Id": 476452,
+                    "Empleado": 247767,
+                    "IdCurriculum": 106761,
+                    "Observaciones": "",
+                    "NombreCompleto": "Carlos (Antonio) Matias (Da) Silva",
+                    "SessionStartDate": "\/Date(1693504223000)\/",
+                    "Fecha": "\/Date(1693505220203)\/",
+                    "HasChanges": false
+                }
+            ],
+            "AsignacionStaffings": [
+                {
+                    "ChangeStatus": 0,
+                    "Id": 87329,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1614007,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1614007,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 91517,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1633552,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1633552,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 91518,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1629075,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1629075,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 93968,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1642222,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1642222,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 100230,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1664773,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1664773,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 100231,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1633133,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1633133,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 103709,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1670931,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1670931,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 109145,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1689166,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1689166,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 111931,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1696724,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1696724,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": 116613,
+                    "IdCurriculum": 106761,
+                    "IdStateStaffing": 3,
+                    "IdAsignacion": 1708741,
+                    "Reason": "",
+                    "StateStaffing": {
+                        "ChangeStatus": 0,
+                        "Id": 3,
+                        "Codigo": "Reviewed. Included in CV. ",
+                        "StateStaffingDics": [
+                            {
+                                "IdStateStaffing": 3,
+                                "IdIdiom": "EN",
+                                "Estado": "Reviewed. \u003cbr\u003eIncluded in the CV"
+                            }
+                        ],
+                        "HasChanges": false
+                    },
+                    "Asignacion": {
+                        "Id": 1708741,
+                        "AsignacionPorcentaje": 0,
+                        "IdProyecto": 0,
+                        "Empleado": {
+                            "Id": 0,
+                            "NumeroEmpleado": 0,
+                            "FechaContratacion": "\/Date(-62135596800000)\/",
+                            "IdEstructuraOrganizativa": 0,
+                            "IdEstructuraParrilla": 0,
+                            "AnosEnEveris": 0,
+                            "Persona": {
+                                "Id": 0,
+                                "Nombre": "",
+                                "Apellido1": "",
+                                "Apellido2": "",
+                                "NombreCompleto": "  "
+                            },
+                            "EstructuraOrganizativa": {
+                                "Id": 0,
+                                "Descripcion": "",
+                                "IdPais": "",
+                                "IdOficina": "",
+                                "IdUnidadNegocio": "",
+                                "IdLineaGestion": "",
+                                "IdAreaGestion": "",
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "LineaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "AreaGestion": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "EstructuraParrilla": {
+                                "Id": 0,
+                                "IdPais": null,
+                                "IdOficina": null,
+                                "IdUnidadNegocio": null,
+                                "IdCarreraProfesional": null,
+                                "IdGrupoParrilla": null,
+                                "IdAreaParrilla": null,
+                                "IdGrupoProfesional": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "Oficina": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "UnidadNegocio": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                },
+                                "CarreraProfesional": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "AreaParrilla": {
+                                    "Id": null,
+                                    "Descripcion": null
+                                },
+                                "GrupoProfesional": {
+                                    "Id": null,
+                                    "Codigo": null,
+                                    "CodigoSubGrupo": null
+                                }
+                            }
+                        },
+                        "Proyecto": {
+                            "Id": 0,
+                            "Codigo": null,
+                            "Nombre": null,
+                            "IdCliente": 0,
+                            "IdSociedad": null,
+                            "Cliente": {
+                                "Id": 0,
+                                "Codigo": null,
+                                "Nombre": null,
+                                "DomicilioSocial": null,
+                                "Sector": 0,
+                                "SubSector": 0,
+                                "IdPais": null,
+                                "Pais": {
+                                    "Id": "",
+                                    "Descripcion": ""
+                                }
+                            },
+                            "Sociedad": {
+                                "Id": null,
+                                "Nombre": null
+                            }
+                        }
+                    },
+                    "HasChanges": false
+                }
+            ],
+            "DatosStaffings": [
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1708741,
+                    "IdAsignacionStaffing": 116613,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 419888,
+                    "CodProyecto": "EXT-011198-00475",
+                    "DesProyecto": "DA - Apollo REDE",
+                    "IdCliente": 13420,
+                    "CodCliente": "11198",
+                    "DesCliente": "Banco Itau S.A.",
+                    "Sector": "Consulting, IT \u0026 Outsourcing Professional Services",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1706742000000)\/",
+                    "FecFinAsignacion": "\/Date(1774908000000)\/",
+                    "IdEverisExperience": 193269,
+                    "FechaNuevoRegistro": "\/Date(1738249450330)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1696724,
+                    "IdAsignacionStaffing": 111931,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 388249,
+                    "CodProyecto": "EXT-011198-00423",
+                    "DesProyecto": "DA - MAP AWS - REDE - H: Roberta",
+                    "IdCliente": 13420,
+                    "CodCliente": "11198",
+                    "DesCliente": "Banco Itau S.A.",
+                    "Sector": "Consulting, IT \u0026 Outsourcing Professional Services",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1704085200000)\/",
+                    "FecFinAsignacion": "\/Date(1762750800000)\/",
+                    "IdEverisExperience": 186223,
+                    "FechaNuevoRegistro": "\/Date(1726006129913)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1670931,
+                    "IdAsignacionStaffing": 103709,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 455405,
+                    "CodProyecto": "EXT-011198-00592",
+                    "DesProyecto": "MAP AWS - Home do Superapp DA",
+                    "IdCliente": 13420,
+                    "CodCliente": "11198",
+                    "DesCliente": "Banco Itau S.A.",
+                    "Sector": "Consulting, IT \u0026 Outsourcing Professional Services",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1730437200000)\/",
+                    "FecFinAsignacion": "\/Date(1747026000000)\/",
+                    "IdEverisExperience": 176052,
+                    "FechaNuevoRegistro": "\/Date(1731103577550)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1642222,
+                    "IdAsignacionStaffing": 93968,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 320206,
+                    "CodProyecto": "EXT-011198-00308",
+                    "DesProyecto": "Modernização e Coachs - Consultoria",
+                    "IdCliente": 13420,
+                    "CodCliente": "11198",
+                    "DesCliente": "Banco Itau S.A.",
+                    "Sector": "Consulting, IT \u0026 Outsourcing Professional Services",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1688360400000)\/",
+                    "FecFinAsignacion": "\/Date(1725858000000)\/",
+                    "IdEverisExperience": 164005,
+                    "FechaNuevoRegistro": "\/Date(1687300951250)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1633552,
+                    "IdAsignacionStaffing": 91517,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 406903,
+                    "CodProyecto": "EXT-011198-00448",
+                    "DesProyecto": "MAP AWS - Giro",
+                    "IdCliente": 13420,
+                    "CodCliente": "11198",
+                    "DesCliente": "Banco Itau S.A.",
+                    "Sector": "Consulting, IT \u0026 Outsourcing Professional Services",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1688360400000)\/",
+                    "FecFinAsignacion": "\/Date(1708318800000)\/",
+                    "IdEverisExperience": 161122,
+                    "FechaNuevoRegistro": "\/Date(1704469772110)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1633133,
+                    "IdAsignacionStaffing": 100231,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 324444,
+                    "CodProyecto": "EXT-010781-00132",
+                    "DesProyecto": "JSOX - Dig. Faturas",
+                    "IdCliente": 13402,
+                    "CodCliente": "10781",
+                    "DesCliente": "LATAM AIRLINES BRASIL",
+                    "Sector": "",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1688360400000)\/",
+                    "FecFinAsignacion": "\/Date(1704344400000)\/",
+                    "IdEverisExperience": 171693,
+                    "FechaNuevoRegistro": "\/Date(1704343505207)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "IdAsignacion": 1629075,
+                    "IdAsignacionStaffing": 91518,
+                    "IdStateStaffing": 3,
+                    "Reason": "",
+                    "IdPersona": 247767,
+                    "IdProyecto": 334914,
+                    "CodProyecto": "EXT-011198-00328",
+                    "DesProyecto": "Demandas Arquitetura Cloud AWS - GDN-e",
+                    "IdCliente": 13420,
+                    "CodCliente": "11198",
+                    "DesCliente": "Banco Itau S.A.",
+                    "Sector": "Consulting, IT \u0026 Outsourcing Professional Services",
+                    "NombreCompania": null,
+                    "Categoria": "Lead Engineer",
+                    "IdCategoria": "Q",
+                    "NombreCategoria": "Lead",
+                    "FecInicioAsignacion": "\/Date(1688335200000)\/",
+                    "FecFinAsignacion": "\/Date(1703977200000)\/",
+                    "IdEverisExperience": 161123,
+                    "FechaNuevoRegistro": "\/Date(1701266972400)\/",
+                    "Email": null,
+                    "SentEmail": false,
+                    "IdPais": null,
+                    "HasChanges": false
+                }
+            ],
+            "Certifications": [],
+            "Courses": [
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE223185",
+                    "Description": "GitFlow-based branch management",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1706828400000)\/",
+                    "EndDate": "\/Date(1706828400000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 97739,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE223191",
+                    "Description": "Introduction to artifact management with Nexus",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1706828400000)\/",
+                    "EndDate": "\/Date(1706828400000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 97745,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE222490",
+                    "Description": "Introduction to DevOps",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1705878000000)\/",
+                    "EndDate": "\/Date(1705878000000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 96983,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CO240122",
+                    "Description": "Management Benefits and Journey",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1704855600000)\/",
+                    "EndDate": "\/Date(1704855600000)\/",
+                    "IdState": 4,
+                    "CourseTypeDescription": "Blended",
+                    "StateDescription": "Closed",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 103877,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE241363",
+                    "Description": "Performance \u0026 Growth Journey for evaluated employees",
+                    "Hours": 1,
+                    "StartDate": "\/Date(1702594800000)\/",
+                    "EndDate": "\/Date(1702594800000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 106773,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CO240194",
+                    "Description": "Inteligencia Emocional",
+                    "Hours": 3,
+                    "StartDate": "\/Date(1700622000000)\/",
+                    "EndDate": "\/Date(1700622000000)\/",
+                    "IdState": 4,
+                    "CourseTypeDescription": "Blended",
+                    "StateDescription": "Closed",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 104096,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CO240126",
+                    "Description": "Compliance in Labor Relations",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1697598000000)\/",
+                    "EndDate": "\/Date(1697598000000)\/",
+                    "IdState": 4,
+                    "CourseTypeDescription": "Blended",
+                    "StateDescription": "Closed",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 103886,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE223998",
+                    "Description": "Mentoring First-Steps",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1697493600000)\/",
+                    "EndDate": "\/Date(1697493600000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 98665,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CO241249",
+                    "Description": "Princípios de Liderança",
+                    "Hours": 3,
+                    "StartDate": "\/Date(1697425200000)\/",
+                    "EndDate": "\/Date(1697425200000)\/",
+                    "IdState": 4,
+                    "CourseTypeDescription": "Blended",
+                    "StateDescription": "Closed",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 106650,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE234654",
+                    "Description": "Lider de lideres",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1694815200000)\/",
+                    "EndDate": "\/Date(1694815200000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 105124,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE173701",
+                    "Description": "English level test",
+                    "Hours": 1,
+                    "StartDate": "\/Date(1694037600000)\/",
+                    "EndDate": "\/Date(1694037600000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 68094,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE234750",
+                    "Description": "Diversidade, Equidade e Inclusão",
+                    "Hours": 1,
+                    "StartDate": "\/Date(1690581600000)\/",
+                    "EndDate": "\/Date(1690581600000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 105372,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CO233768",
+                    "Description": "Onboarding de Líderes",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1690426800000)\/",
+                    "EndDate": "\/Date(1690426800000)\/",
+                    "IdState": 4,
+                    "CourseTypeDescription": "Blended",
+                    "StateDescription": "Closed",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 103997,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE202426",
+                    "Description": "Lei Geral de Proteção de Dados",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1690408800000)\/",
+                    "EndDate": "\/Date(1690408800000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 82241,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE183082",
+                    "Description": "GDPR",
+                    "Hours": 1,
+                    "StartDate": "\/Date(1690322400000)\/",
+                    "EndDate": "\/Date(1690322400000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 71366,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE223410",
+                    "Description": "Global Compliance Training",
+                    "Hours": 2,
+                    "StartDate": "\/Date(1690322400000)\/",
+                    "EndDate": "\/Date(1690322400000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 98030,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CE152595",
+                    "Description": "Basic Concepts on Security",
+                    "Hours": 1,
+                    "StartDate": "\/Date(1689631200000)\/",
+                    "EndDate": "\/Date(1689631200000)\/",
+                    "IdState": 2,
+                    "CourseTypeDescription": "e-learning course",
+                    "StateDescription": "In progress",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 64895,
+                    "HasChanges": false
+                },
+                {
+                    "ChangeStatus": 0,
+                    "Id": "CO232472",
+                    "Description": "Boas Vindas - Brasil",
+                    "Hours": 8,
+                    "StartDate": "\/Date(1688353200000)\/",
+                    "EndDate": "\/Date(1688353200000)\/",
+                    "IdState": 4,
+                    "CourseTypeDescription": "Blended",
+                    "StateDescription": "Closed",
+                    "FileDate": null,
+                    "File": null,
+                    "IdCall": 102437,
+                    "HasChanges": false
+                }
+            ],
+            "Status": "A",
+            "FechaCreacionCurriculum": "\/Date(1693505220157)\/",
+            "UserPolicyReviewed": true,
+            "HasChanges": false
+        },
+        "SocialQualityDataToComplete": {
+            "DataToCompleteIdiom": {
+                "EN": [
+                    "msgQualityOtherExperience"
+                ],
+                "PT": [
+                    "msgQualityOtherExperience"
+                ]
+            }
+        },
+        "userPolicyReviewed": true,
+        "sameUser": true
+    }
+}

@@ -1,4 +1,4 @@
-Here is an initialization script/command tailored to your Laravel architecture (`./api`). Since the Apify platform handles actors through either direct Actor IDs or custom **Tasks** (pre-saved configurations with default inputs), this routine dynamically maps your required system types (`Maps`, `instagram`, `linkedin`, `cnpj`) to their respective production Actor IDs.
+Here is an initialization script/command tailored to your Laravel architecture. Since the Apify platform handles actors through either direct Actor IDs or custom **Tasks** (pre-saved configurations with default inputs), this routine dynamically maps your required system types (`Maps`, `instagram`, `linkedin`, `cnpj`) to their respective production Actor IDs.
 
 You can implement this as a Laravel Custom Artisan Command.
 
