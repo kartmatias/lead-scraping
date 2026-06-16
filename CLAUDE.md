@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Guidance for AI agents working in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
@@ -71,11 +71,54 @@ DELETE /api/leads/{id}
 ## Development Commands
 
 ```bash
+# Install PHP dependencies
 composer install
+
+# Install Node.js dependencies (if using frontend assets)
+npm install
+
+# Copy environment file and generate key
+cp .env.example .env
+php artisan key:generate
+
+# Run database migrations
 php artisan migrate
+
+# Start the development server
 php artisan serve
-php artisan queue:work          # process jobs
-php artisan queue:work --once   # process one job
+
+# Start the queue worker (process jobs)
+php artisan queue:work
+
+# Process a single job (for testing)
+php artisan queue:work --once
+
+# Run all tests
+php artisan test
+
+# Run tests for a specific suite (Unit, Feature, Integration)
+php artisan test --testsuite=Unit
+php artisan test --testsuite=Feature
+php artisan test --testsuite=Integration
+
+# Run a single test class or method
+php artisan test --filter=TestClassName
+php artisan test --filter=TestClassName::testMethod
+
+# Run tests with coverage (if configured)
+php artisan test --coverage
+
+# Lint PHP files with Laravel Pint
+vendor/bin/pint
+
+# Check for linting issues without fixing
+vendor/bin/pint --test
+
+# Start Vite development server (for frontend assets during development)
+npm run dev
+
+# Build frontend assets for production
+npm run build
 ```
 
 ## Known Issues / Constraints
@@ -83,6 +126,7 @@ php artisan queue:work --once   # process one job
 - **LinkedIn** — `dev_fusion/linkedin-profile-scraper` requires full-permission approval on Apify; returns 403 until approved.
 - **No authentication** on API routes.
 - **Polling only** — no webhook support implemented yet.
+- **Apify actor validation** fails during `artisan` commands if `APIFY_TOKEN` is not set or actors are inaccessible. Set `APIFY_VALIDATION_DISABLED=true` in your environment to skip validation for local development.
 
 ## Lead Linking Logic (`LinkLeadsJob`)
 

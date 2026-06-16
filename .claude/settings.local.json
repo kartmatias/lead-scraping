@@ -12,7 +12,8 @@
       "Bash(./vendor/bin/phpunit tests/Unit/ApifyServiceTest.php)",
       "Bash(./vendor/bin/phpunit tests/Unit/ApifyServiceTest.php --filter \"test_get_actor_details\")",
       "Bash(APP_ENV=testing php artisan test)",
-      "Bash(APP_ENV=testing php artisan *)"
+      "Bash(APP_ENV=testing php artisan *)",
+      "Bash(APIFY_VALIDATION_DISABLED=true php artisan *)"
     ]
   }
 }
